@@ -1,4 +1,4 @@
-**# data-structures-stacks
+### data-structures-stacks
 
 ## Project Goals
 The goal of this project is to:
