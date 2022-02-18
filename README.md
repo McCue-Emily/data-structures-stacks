@@ -1,4 +1,4 @@
-### data-structures-stacks
+# Homework 2
 
 ## Project Goals
 The goal of this project is to:
@@ -36,4 +36,4 @@ Results 17.5 as expected.
 ## Requirements
 Create a program that reads the infix form of an arithmetic expression, evaluates it, outputs the postfix expression, and outputs the result. Assume that the expression consists of single-digit, nonnegative integers (‘0’ to ‘9’) and the four basic arithmetic operators (‘+’,’-‘,’\*’,’/’). Further assume that the arithmetic expression is input from the keyboard with all the characters separated by white space on one line. Save your program in a file called postfix.cpp.  
 
-Use a linked based implementation for your Stack data structure. **
+Use a linked based implementation for your Stack data structure. 
